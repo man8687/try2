@@ -1,0 +1,1196 @@
+{
+  "APP_SETTINGS": {
+    "id": "259",
+    "appid": "APP-1000259",
+    "accid": "31",
+    "catid": "35",
+    "appname": "Mobile Locator Rasikbhai",
+    "packname": "com.emilie.mobitool.locatorscree.callerinfo",
+    "logo": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2591665980232.png",
+    "versionupdatedialog": false,
+    "versioncode": "",
+    "redirectotherapp": false,
+    "redirectotherapppackage": "",
+    "moreapp": false,
+    "needinternet": true,
+    "policylink": "",
+    "privacypolicy": "<p><span style=\"font-weight: bolder;\">Privacy Policy </span></p><p>Your privacy is important to Our App Service. Our Privacy Policy covers how we collect, use, disclose, transfer, and store your information. We hope our policy is straightforward and easy-to-understand. Please take a minute to review the details of our privacy practices below.</p><p><br></p><p><span style=\"font-weight: bolder;\">How We Collect Information</span></p><p>We collect information in order to provide you with better, higher-quality, and more personalized services. We collect information by the following means:</p><p>1. When you use our email support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.</p><p>2. The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent device identifier, Android ad master identifier, network card (MAC) address, and international mobile device identification code(IMEI/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information)to provide statistical analysis services, and the accuracy of report data is calibrated by geographic location to provide basic anti-cheating capabilities. The equipment model, the terminal manufacturer, the terminal device operating system version, the session start/stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.</p><p><br></p><p><span style=\"font-weight: bolder;\">How We Use Information</span></p><p>We use the information collected through this app product: (I) to communicate with you; (II) to process your requests and transactions; (III) to improve the app; (IV) to customize the services and/or products we provide to you; (V) to assist with our product and service development; (VI) to perform marketing analysis; and (VII) for other purposes related to our business.</p><p>Our product integrates Youmeng+ SDK to provide statistical analysis services and calibrate the accuracy of report data through geographic location to provide basic anti-cheating capabilities.</p><p><br></p><p><br></p><p><span style=\"font-weight: bolder;\">Third party accounts</span></p><p>Our App Service does not store any other third part service passwords. Your account information is not disclosed to this app and you are free to cancel any of your social networking website connections with this app at any time. </p><p><br></p><p><span style=\"font-weight: bolder;\">Sharing of personal data</span></p><p>To improve our product and provide you better service, we also share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, companies we've hired to provide data analytical services may need collect and access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.</p><p><br></p><p><span style=\"font-weight: bolder;\">Legal basis for data processing</span></p><p>We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you so you may use the Sites); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes).  </p><p><br></p><p>In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our App.</p><p><br></p><p><span style=\"font-weight: bolder;\">International transfers of personal data</span></p><p>Our business may require us to transfer your Personal Data to countries outside of the European Economic Area (\"EEA\"), including to countries such as the People's Republic of China or Singapore. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and we implement measures such as standard contractual clauses. A copy of those clauses can be obtained by contacting our Help Center.</p><p><br></p><p><span style=\"font-weight: bolder;\">Your rights</span></p><p>Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data.  </p><p><br></p><p>Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.</p><p><br></p><p>Requests should be submitted by contacting us through our developer account e-Mail on Google Play.</p><p><br></p><p>If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.</p><p><br></p><p>We retain your Personal Data as long as needed to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.</p><p><br></p><p><span style=\"font-weight: bolder;\">Transparency and Choice</span></p><p>You can also control which social websites you wish to share or upload.</p><p><br></p><p><span style=\"font-weight: bolder;\">Changes</span></p><p>Our Privacy Policy may change occasionally. We will not reduce your rights under this Privacy Policy without providing explicit, advance notice. We will post any privacy policy changes on this page and, in the event of significant changes, we will provide a more prominent notice (such as an email notification). </p><p><br></p><p>If you have any questions regarding this Privacy Policy, please feel free to contact us.</p>",
+    "appaccountlink": "",
+    "notificationid": "",
+    "notificationkey": "",
+    "showappinhouse": false,
+    "showadinapp": true,
+    "alladdformat": "All Add Format",
+    "howshowaddequence": true,
+    "appsequence": "",
+    "alernateAdShow": "",
+    "howshowinterstailadsequence": true,
+    "adPlatformSequenceInterstitial": "",
+    "alernateAdShowInterstitial": "",
+    "howshowrewardvideoadsequence": true,
+    "adPlatformSequenceRewardvideo": "",
+    "alernateAdShowRewardvideo": "",
+    "howshownativeadsequence": true,
+    "adPlatformSequenceNativead": "",
+    "alernateAdShowNativead": "",
+    "showtestad": false,
+    "IntCounter": "1",
+    "IntBackCounter": "1",
+    "AMDClickStatus": false,
+    "AltIntAppOpenStuse": false,
+    "appopenad": true,
+    "adshowingpopup": false,
+    "Under Maintenance": "False",
+    "Show Entry Screen": "5",
+    "Ad button color": " ",
+    "Exit Screen": "True",
+    "List recyclerview per item": "5",
+    "Grid recyclerview per item two": "5",
+    "CountryList": "SG,SGP,VN,VT,JP,JP,LT,NL,LV,AU,AT,BE,CA,DK,FI,DE,FR,IE,IT,LU,NL,NZ,NO,ES,SE,CH,GB,US,MY,MX,MA,PH,QA,RO,SA,SG,SGP,VN,VT,ZA AE,GR,HK,HU,ID,BR,EG,OM,EE,PH,BG,FJ,BN,JO,KW,AW,BH,BB,BM,BS,TN",
+    "VPN": "True",
+    "Vpn Random Country List": "US,CA,AU,DE,FR,CH,NL,GB,JP",
+    "VPN CountryList Only": " ",
+    "Click CountryList": "SG,SGP,VN,VT,JP",
+    "Show Interstitial Click Count": "5",
+    "Common Feature Hide": " ",
+    "App Open Native Hide Country": " ",
+    "Grid recyclerview per item three": "7",
+    "Show Video Call": "True",
+    "Person found": "False",
+    "Ad bg color": " "
+  },
+  "PLACEMENT": {
+    "Unity": {
+      "ad_showAdStatus": false,
+      "AppID": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "Interstitial": "Android_Interstitial",
+      "RewardedVideo": "Android_Rewarded"
+    },
+    "Facebook": {
+      "ad_showAdStatus": false,
+      "NativeBanner": [
+        {
+          "id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        }
+      ],
+      "Interstitial": [
+        {
+          "id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        }
+      ],
+      "Native": [
+        {
+          "id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        }
+      ],
+      "RewardedVideo": [
+        {
+          "id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        }
+      ]
+    },
+    "Admob": {
+      "AppID": "ca-app-pub-3940256099942544~3347511713",
+      "Banner": [
+        {
+          "id": " "
+        }
+      ],
+      "Interstitial": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial1"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial2"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial3"
+        }
+      ],
+      "Native": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Native1"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Native2"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Native3"
+        }
+      ],
+      "RewardedVideo": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial1"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen1"
+        }
+      ],
+      "AppOpen": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen1"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen2"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen3"
+        }
+      ],
+      "ad_showAdStatus": true
+    },
+    "Qureka": {
+      "Qureka Lite Show": false,
+      "Qureka Close": true,
+      "QurekaLink": "http://871.win.qureka.com/",
+      "PredchampLink": "https://472.game.predchamp.com/",
+      "Icon Urls": [
+        {
+          "id": "https://videoapps.club/Qureka/1.gif"
+        }
+      ],
+      "Interstitial Image Urls": [
+        {
+          "id": " https://videoapps.club/Qureka/int1.png"
+        }
+      ],
+      "Native Image Urls": [
+        {
+          "id": "https://videoapps.club/Qureka/native1.png"
+        }
+      ],
+      "Qureka Show Count": "3"
+    },
+    "CountriesAPIKey": {
+      "Private key": "GVSdEJh91S",
+      "CID": "rco_freevpn"
+    },
+    "BackfillAd": {
+      "Interstitial": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial3"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Interstitial2"
+        }
+      ],
+      "Native": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Native3"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_Native2"
+        }
+      ],
+      "AppOpen": [
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen3"
+        },
+        {
+          "id": "/22475853447,22828403554/KaushikKanani_com.emilie.mobitool.locatorscree.callerinfo_AppOpen2"
+        }
+      ]
+    },
+    "Common Settings": {
+      "Under Maintenance": "False",
+      "Show Entry Screen": "5",
+      "Exit Screen": "True",
+      "List Recyclerview Per Item": "5",
+      "Grid Recyclerview Per Item Two": "5",
+      "Grid Recyclerview Per item Three": "7",
+      "Click Country List": " ",
+      "Show Interstitial Click Count": "5",
+      "Common Feature Hide": " ",
+      "App Open Native Hide Country List": " ",
+      "Ad Bg Color": " ",
+      "Ad Button Color": " ",
+      "Ad Button Text Color": " ",
+      "Ad Title Color": " ",
+      "Ad Disc Color": " "
+    }
+  },
+  "MORE_APP": [
+    {
+      "appid": "APP-1000259",
+      "appname": "Mobile Locator Rasikbhai",
+      "packname": "com.emilie.mobitool.locatorscree.callerinfo",
+      "logo": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2591665980232.png"
+    }
+  ],
+  "MORE APP HOME": [
+    {
+      "appid": "APP-100067",
+      "appname": "DocScanner",
+      "packname": "com.cscanner.comscn",
+      "logo": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_671639115720.png"
+    },
+    {
+      "appid": "APP-100058",
+      "appname": "PDF Reader",
+      "packname": "com.marutigroup.pdfreader",
+      "logo": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_581637224541.png"
+    }
+  ],
+  "SINGLE APP": null,
+  "App_Inhouse": [
+    {
+      "app_title": "DJ  Booster Rasik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1670063310.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1670063310.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Kirtan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1670051780.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1670051780.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1670039892.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1670039892.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FF Skin tool Nirav",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1669971998.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669971998.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1669954375.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669954375.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Booster - Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3251669826931.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669701281.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Booster rasik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3241669800036.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669696993.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Booster Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3231669781930.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669458595.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1669285096.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669285096.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Booster Rasik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3211669825630.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669280569.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Mirroring",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1669197599.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1669197599.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Locator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3191669020741.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668839737.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1668835868.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668835868.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1668835342.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668835342.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Body Scanner - Full Body Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3161669828111.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668774827.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Screen Mirroring Manish",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3151668775789.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668763018.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3141668762576.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668762377.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3131668775021.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668752734.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Rasik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3121668762541.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668751878.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Manish",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3111668752994.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668663282.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3101668139378.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1668075031.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Color Caller Screen Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3081668578870.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667901803.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Color Screen Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3071668428187.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667892640.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3051669097678.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667880066.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3041668169803.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667811606.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Booster Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3021669097764.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667629681.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Bass Booster Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_3011668233300.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667558136.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2991667996370.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667539952.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen MIrroring Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2981668065547.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667539705.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen mirroring Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2971667998228.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667474148.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen Mirroring Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2961668064276.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667470003.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen Mirroring Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2951668064964.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667469338.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen Mirroring Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1667458548.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667458548.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen Mirroring Milan",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2931669286979.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667450402.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Bass Booster Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2921668064572.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667450380.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1667384633.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667384633.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Player Binni",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2891668170699.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667378728.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Screen Mirroring Binni",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2881668139982.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667361696.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Screen Mirroring Binni",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2871668140838.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1667285776.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air horn Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666335050.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666335050.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2851668588899.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666332750.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air horn Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666323663.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666323663.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666264906.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666264906.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Dharmik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2821668170370.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666264651.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Dharmik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2811668579643.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666263126.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Screen Mirroring Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2801668168033.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666239752.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2791668497567.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666238248.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Screen Mirroring Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666154376.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666154376.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666153845.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666153845.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Caller screen Binalma'am.",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1666088300.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666088300.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Dharmik Color call screen",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2751666248563.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666067868.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2741666156893.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1666009357.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Number Locator Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2731666182038.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665998787.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2721666007910.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665985359.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2701665981802.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665807696.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2681670072081.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665645294.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1665635385.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665635385.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1665553108.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665553108.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Caller screen Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2651665981227.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665548272.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Bass Booster Dharmik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2641666357841.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665546645.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2631665980483.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665487077.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Dharmik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2611665980398.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665472909.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Locator Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2591665980232.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665464551.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2581665480155.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665403897.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Caller screen Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2571665402733.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665382953.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Call Color Screen Binal",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2561665402645.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1665222564.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2541665229085.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664874150.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Video Player Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2521664889662.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664791836.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "DJ Bass Booster Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2511666357911.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664602237.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2501665404046.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664534251.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Dharmik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2491665994940.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664515456.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn (Milanbhai)",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2481664519705.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664448344.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2461664449115.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664363677.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Call Screen Themes Color Phone Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2451664541052.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664362614.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Lie Detactor Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2431665980059.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664342720.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Rasikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2421664257049.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664194054.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2411664194024.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664186212.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Night Camera",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1664004927.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1664004927.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Milabhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2371663934487.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1663912271.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Image Search ManishBhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2361663936474.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1663830716.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Ringtone Music Cutter Dharmik Rasik",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1663312370.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1663312370.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Hindi English Translator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/1662806273.jpg",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1662806273.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Sound (Rasikbhai)",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2271663078119.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1662356392.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Air Horn Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2201662033343.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1661857244.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "Mobile Number Locator Milanbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2191661854428.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1661596074.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "HD Video Screen Mirroring Rashikbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2181670060279.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1661515828.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    },
+    {
+      "app_title": "FFF Skin Tool Manishbhai",
+      "app_desc": "",
+      "app_icon": "https://softicetechnology.com/applicationdashbord/uploads/applogo/img_2091660738861.png",
+      "app_header_image": "https://softicetechnology.com/applicationdashbord/uploads/appheaderimg/1660633517.jpg",
+      "app_uri": "",
+      "app_rating": "0",
+      "app_cta_text": "",
+      "app_price": "",
+      "app_download": ""
+    }
+  ],
+  "STATUS": true,
+  "MSG": ""
+}
